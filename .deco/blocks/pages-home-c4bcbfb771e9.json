@@ -47,6 +47,23 @@
       ]
     },
     {
+      "__resolveType": "site/sections/Content/Benefits.tsx",
+      "benefits": [
+        {
+          "text": "• Frete Grátis em compras a partir de R$ 50"
+        },
+        {
+          "text": "• Até R$ 200 de desconto na primeira compra"
+        },
+        {
+          "text": "• Parcelamento em até 12x sem juros"
+        },
+        {
+          "text": "• Até 15% de desconto à vista"
+        }
+      ]
+    },
+    {
       "__resolveType": "site/sections/Images/ImageGrid.tsx",
       "images": [
         {
@@ -85,23 +102,6 @@
           "sort": ""
         }
       }
-    },
-    {
-      "__resolveType": "site/sections/Content/Benefits.tsx",
-      "benefits": [
-        {
-          "text": "• Frete Grátis em compras a partir de R$ 50"
-        },
-        {
-          "text": "• Até R$ 200 de desconto na primeira compra"
-        },
-        {
-          "text": "• Parcelamento em até 12x sem juros"
-        },
-        {
-          "text": "• Até 15% de desconto à vista"
-        }
-      ]
     },
     {
       "__resolveType": "site/sections/Newsletter/Newsletter.tsx"
