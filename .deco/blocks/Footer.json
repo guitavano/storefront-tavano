@@ -2,7 +2,6 @@
   "__resolveType": "site/sections/Footer/Footer.tsx",
   "links": [
     {
-      "title": "Our Company",
       "children": [
         {
           "title": "About us",
@@ -13,7 +12,7 @@
           "href": "#"
         },
         {
-          "title": "Stores",
+          "title": "Stores ",
           "href": "#"
         },
         {
@@ -21,11 +20,10 @@
           "href": "#"
         }
       ],
+      "title": "Our Company ",
       "href": "#"
     },
     {
-      "title": "Orders & Purchases",
-      "href": "#",
       "children": [
         {
           "title": "Check order status",
@@ -43,28 +41,11 @@
           "title": "Gift cards",
           "href": "#"
         }
-      ]
+      ],
+      "title": "Orders & Purchases",
+      "href": "#"
     },
     {
-      "title": "Support & Services",
-      "href": "#",
-      "children": [
-        {
-          "title": "Support Center",
-          "href": "#"
-        },
-        {
-          "title": "Schedule a service",
-          "href": "#"
-        },
-        {
-          "title": "Contact us",
-          "href": "#"
-        }
-      ]
-    },
-    {
-      "title": "Support & Services",
       "children": [
         {
           "title": "Support Center",
@@ -79,6 +60,25 @@
           "href": "#"
         }
       ],
+      "title": "Support & Services",
+      "href": "#"
+    },
+    {
+      "children": [
+        {
+          "title": "Support Center",
+          "href": "#"
+        },
+        {
+          "title": "Schedule a service",
+          "href": "#"
+        },
+        {
+          "title": "Contact us",
+          "href": "#"
+        }
+      ],
+      "title": "Support & Services",
       "href": "#"
     }
   ],
